@@ -1,6 +1,6 @@
 # Node AI Projects Repository
 
-This repository contains a collection of Node.js AI projects developed by [Your Name]. Each project is implemented on a separate branch, allowing you to easily explore and access different projects within this repository.
+This repository contains a collection of Node.js AI projects developed by Yash Patil. Each project is implemented on a separate branch, allowing you to easily explore and access different projects within this repository.
 
 ## Projects
 
